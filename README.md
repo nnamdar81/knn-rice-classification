@@ -1,9 +1,5 @@
-# knn-rice-classification
-Rice classification using a KNN algorithm implemented from scratch with data cleaning, standardization, Euclidean distance, and majority voting.
-
 # KNN Rice Classification
-
-A data-mining project for classifying rice samples using a **K-Nearest Neighbors (KNN) algorithm implemented from scratch**.
+Rice classification using a KNN algorithm implemented from scratch with data cleaning, standardization, Euclidean distance, and majority voting.
 
 ## Project requirements
 
